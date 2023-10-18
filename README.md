@@ -1,8 +1,9 @@
-# portfolio
+# Portfolio
 
 ## About me
 
-My name is Katarzyna Cudowska.
+My name is Katarzyna Cudowska. I graduated from Warsaw University of Technology holding Master's Degree in Environmental Development, Planning and Management, specialty: urban spatial planning. My work experience includes working in the district office, starting at the intern level and ending as an inspector. Most of my tasks involve contact with people. This has allowed me to develop soft skills such as communication, negotiation skills, resistance to stress and good organization of work. I have recently started my adventure of becoming a software tester. I would like to expand my knowledge and gain experience in this field.
+
 
 ## Courses
 
