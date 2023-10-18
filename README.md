@@ -49,8 +49,9 @@ My name is Katarzyna Cudowska. I graduated from Warsaw University of Technology 
 
 **Bug reports**
 
-* [Bug reports - Scouts Panel](https://docs.google.com/spreadsheets/d/10iP43uqRoXfOwtstGQY3ZtxatFDVwMiEnTdiil3NiCs/edit#gid=0)
+* [Bugs - Scouts Panel](https://docs.google.com/spreadsheets/d/10iP43uqRoXfOwtstGQY3ZtxatFDVwMiEnTdiil3NiCs/edit#gid=0)
+* [Bugs - OLX mobile app](https://docs.google.com/spreadsheets/d/1bvN8jqruOQ0ar1IL1bUZ7UBPO8CWxniqHKs6UxOPD6I/edit)
 
-**Test report**
+**Test reports**
 
 * [Test report - Scouts Panel](https://docs.google.com/document/d/1A4yPrUyml_yiPy2-cNqiKJsCmgdVtwk1jws3W3lLQew/edit)
