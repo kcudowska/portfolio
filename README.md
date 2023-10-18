@@ -47,10 +47,10 @@ My name is Katarzyna Cudowska. I graduated from Warsaw University of Technology 
 * [Test cases based on own experience - Scouts panel](https://docs.google.com/spreadsheets/d/1AyuWO15XJ5-sRaSCUEVdqrCUYvX7NsrFvw1s5fFfx4Y/edit#gid=0)
 * [Test cases based on own experience - Pick Eat Up](https://docs.google.com/spreadsheets/d/1fKsExB1JN0xOA5J-rsSbACMPkPPkIRQKgkkNqhoOWZo/edit#gid=1405494150)
 
-Pozycje, które powinny znaleźć się w Twoim portfolio:
+**Bug reports**
 
-    linki do raportów,
+* [Bug reports - Scouts Panel](https://docs.google.com/spreadsheets/d/10iP43uqRoXfOwtstGQY3ZtxatFDVwMiEnTdiil3NiCs/edit#gid=0)
 
-    linki do opisów błędów,
+**Test report**
 
-    linki do opisów przypadków testowych,Najlepiej dodawać bezpośrednie linki i pamiętaj, żeby miały publiczny dostęp!
+* [Test report - Scouts Panel](https://docs.google.com/document/d/1A4yPrUyml_yiPy2-cNqiKJsCmgdVtwk1jws3W3lLQew/edit)
