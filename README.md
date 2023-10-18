@@ -41,6 +41,12 @@ My name is Katarzyna Cudowska. I graduated from Warsaw University of Technology 
 
 ## My projects
 
+**Test cases**
+
+* [Test cases based on user story - Scouts panel](https://docs.google.com/spreadsheets/d/1B7kk-O8inJEUrqCPRuR1jUkTp1daJqMGQ3Ulpmgh8sE/edit#gid=0)
+* [Test cases based on own experience - Scouts panel](https://docs.google.com/spreadsheets/d/1AyuWO15XJ5-sRaSCUEVdqrCUYvX7NsrFvw1s5fFfx4Y/edit#gid=0)
+* [Test cases based on own experience - Pick Eat Up](https://docs.google.com/spreadsheets/d/1fKsExB1JN0xOA5J-rsSbACMPkPPkIRQKgkkNqhoOWZo/edit#gid=1405494150)
+
 Pozycje, które powinny znaleźć się w Twoim portfolio:
 
     linki do raportów,
@@ -48,23 +54,3 @@ Pozycje, które powinny znaleźć się w Twoim portfolio:
     linki do opisów błędów,
 
     linki do opisów przypadków testowych,Najlepiej dodawać bezpośrednie linki i pamiętaj, żeby miały publiczny dostęp!
-
-4. Dodatkowo możesz dodać sekcje:
-
-    webinary, szkolenia, kursy, mentoring, w których brałeś udział (nie zapomnij o naszym challenge portfolio!).
-
-    narzędzia, które znasz/poznałeś (github, devtools, xampp, slack…)
-
-    technologie, które poznał_ś,
-
-    umiejętności techniczne,
-
-    umiejętności miękkie,
-
-    link do linkedin'a,
-
-    książki branżowe, które przeczytał_ś,
-
-    o mnie…
-
-    wszystko, co możesz wymyślić!
