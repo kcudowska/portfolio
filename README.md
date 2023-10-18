@@ -4,15 +4,27 @@
 
 ## Courses
 
+* Praktyczny kurs testowania oprogramowania - Udemy
+* Zostań Testerem Online - Sii (march - april 2023)
+* Challenge Zostań Testerem Manualnym - DareIT (september - october 2023)
+
 ## Certificates
+
+* ISTQB Foundation Level passed in June 2023
+* Cambridge English: Advanced (CAE)
 
 ## Tools
 
 * GitHub
-* Jira
-* Slack
-* SQL
+* Jira - bug tracker
+* Slack - communication within the team
 * Devtools
+
+## Technical skills
+
+* SQL
+* Creating test cases
+* Reporting bugs
 
 ## Books
 
@@ -20,6 +32,9 @@
 * Certyfikowany Tester ISTQB - Adam roman, Lucjan Stapp
 
 ## Groups on Facebook
+
+* Testuj, Dziewczyno!
+* Testowanie oprogramowania
 
 ## My projects
 
