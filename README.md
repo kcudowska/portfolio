@@ -2,11 +2,13 @@
 
 ## About me
 
+My name is Katarzyna Cudowska.
+
 ## Courses
 
-* Praktyczny kurs testowania oprogramowania - Udemy
 * Zostań Testerem Online - Sii (march - april 2023)
-* Challenge Zostań Testerem Manualnym - DareIT (september - october 2023)
+* Challenge Zostań Testerem Manualnym - DareIT (september - october 2023) [portfolio](https://github.com/kcudowska/challenge_portfolio_kasiacud)
+* Praktyczny kurs testowania oprogramowania - Udemy
 
 ## Certificates
 
@@ -29,7 +31,7 @@
 ## Books
 
 * Zawód Tester - Radosław Smilgin
-* Certyfikowany Tester ISTQB - Adam roman, Lucjan Stapp
+* Certyfikowany Tester ISTQB - Adam Roman, Lucjan Stapp
 
 ## Groups on Facebook
 
