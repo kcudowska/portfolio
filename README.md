@@ -44,15 +44,15 @@ My name is Katarzyna Cudowska. I graduated from Warsaw University of Technology 
 
 **Test cases**
 
-* [Test cases based on user story - Scouts panel](https://docs.google.com/spreadsheets/d/1B7kk-O8inJEUrqCPRuR1jUkTp1daJqMGQ3Ulpmgh8sE/edit#gid=0)
-* [Test cases based on own experience - Scouts panel](https://docs.google.com/spreadsheets/d/1AyuWO15XJ5-sRaSCUEVdqrCUYvX7NsrFvw1s5fFfx4Y/edit#gid=0)
+* [Test cases based on user story - Scouts panel Futbolkolektyw](https://docs.google.com/spreadsheets/d/1B7kk-O8inJEUrqCPRuR1jUkTp1daJqMGQ3Ulpmgh8sE/edit#gid=0)
+* [Test cases based on own experience - Scouts panel Futbolkolektyw](https://docs.google.com/spreadsheets/d/1AyuWO15XJ5-sRaSCUEVdqrCUYvX7NsrFvw1s5fFfx4Y/edit#gid=0)
 * [Test cases based on own experience - Pick Eat Up](https://docs.google.com/spreadsheets/d/1fKsExB1JN0xOA5J-rsSbACMPkPPkIRQKgkkNqhoOWZo/edit#gid=1405494150)
 
 **Bug reports**
 
-* [Bugs - Scouts Panel](https://docs.google.com/spreadsheets/d/10iP43uqRoXfOwtstGQY3ZtxatFDVwMiEnTdiil3NiCs/edit#gid=0)
+* [Bugs - Scouts Panel Futbolkolektyw](https://docs.google.com/spreadsheets/d/10iP43uqRoXfOwtstGQY3ZtxatFDVwMiEnTdiil3NiCs/edit#gid=0)
 * [Bugs - OLX mobile app](https://docs.google.com/spreadsheets/d/1bvN8jqruOQ0ar1IL1bUZ7UBPO8CWxniqHKs6UxOPD6I/edit)
 
 **Test reports**
 
-* [Test report - Scouts Panel](https://docs.google.com/document/d/1A4yPrUyml_yiPy2-cNqiKJsCmgdVtwk1jws3W3lLQew/edit)
+* [Test report - Scouts Panel Futbolkolektyw](https://docs.google.com/document/d/1A4yPrUyml_yiPy2-cNqiKJsCmgdVtwk1jws3W3lLQew/edit)
